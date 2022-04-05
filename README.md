@@ -1,2 +1,1 @@
-# Project1
-# This is a test project
+# This folder stores files for the Capstone project for the IBM Data Science courses
